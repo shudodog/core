@@ -1,8 +1,6 @@
 # core
 **2021.08**
 
-**인프런 강의: 스프링 핵심 원리**
-
 
 **스프링부트 2.4, spring, java, gradle, intellij, JDK 11(java11)**
 
